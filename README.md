@@ -28,9 +28,13 @@ Data Visualization: The Matplotlib library is employed to create plots that show
 Code Outputs:
 
 1-First 5 Rows of the Data.
+
 2-Average Price Per Brand.
+
 3-Data Visualization:
+
 -Distribution of Car Prices.
+
 -Car Prices vs. Mileage.
 
 
